@@ -13,7 +13,7 @@ This project is a web scraper built using Async architecture to extract job list
 The dataset (`Jobinja - Processed.csv`) contains the following columns:
 
 - `Company Name`: name of the company offering the job.
-- ~~`Date of Establishment`: The date when the company was established (if available).~~
+- ~~`Date of Establishment`: The date when the company was established (if available).~~ disposed due to repeated inconsistencies. 
 - `Company Category`: category of the company's business (e.g., Technology, Marketing, Healthcare).
 - `Company Size`: size of the company in terms of the number of employees (e.g., 2 - 10 employees).
 - `Company Website`: The company's website URL (if available).
