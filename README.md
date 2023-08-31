@@ -5,7 +5,7 @@ This project is a web scraper built using Async architecture to extract job list
 
 ## Contents
 - `Crawler_async_safe.py`: The Python script for asynchronous web scraping. It fetches job listings from the Jobinja website and stores the data in a CSV file.
-- `Data Extraction.ipynb`: Notebook used for data extraction and initial data cleaning. Although it's functional, it's recommended to use the `Crawler_async.py` script for efficient data gathering.
+- `Data Extraction.ipynb`: Notebook used for data extraction and initial data cleaning. Although it's functional, it's recommended to use the `Crawler_async_safe.py` script for efficient data gathering.
 - `Data Cleaning.ipynb`: covers handling missing values, removing duplicates, and performing any necessary data transformations
 - `Jobinja - Async.csv`: The raw dataset containing job listings collected from the Jobinja website with no processing.
 
